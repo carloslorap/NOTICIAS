@@ -1,0 +1,2 @@
+# NOTICIAS
+noticias de videojuegos
